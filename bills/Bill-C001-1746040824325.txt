@@ -1,0 +1,10 @@
+======================
+     Weapon Shop Receipt
+======================
+Customer Name: Mohammed Ahmed
+Transaction Type: Purchase
+Weapon: MP7
+Total Cost: 1500.0 SAR
+Date: 2025-04-30
+======================
+Thank you for choosing WeaponShop!
